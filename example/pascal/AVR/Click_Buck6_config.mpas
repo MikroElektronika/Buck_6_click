@@ -1,0 +1,8 @@
+unit Click_Buck6_config;
+
+uses Click_Buck6_types;
+
+const
+    _BUCK6_I2C_CFG : array[1] of uint32_t = (100000); 
+    
+end.
